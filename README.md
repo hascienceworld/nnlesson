@@ -6,6 +6,6 @@ On kaggle.com, training and testing .csv files are saved in datasets "SW MNIST S
 
 Two sample images (one clean, one noisy) are in the kaggle dataset "SW sample images".
 
-For part 1, import the Part 1 file directly from github on the kaggle notebook. For all other parts, just copy the relevant code from the files on github into your kaggle notebook. (The files only contain the code changes, not the entirety of the necessary code.)
+For part 1, import the Part 1 file directly from github (search for hascienceworld) on the kaggle notebook. For all other parts, just copy the relevant code from the files on github into your kaggle notebook. (The files only contain the code changes, not the entirety of the necessary code.)
 
 To test on your own images or work from a saved neural network, you will need to make your own dataset on kaggle; you can do that directly from the notebook. Instead of adding a pre-existing dataset, select "Upload".
